@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "942371167161",
+    "project_id": "scholar-chat-3db1c",
+    "storage_bucket": "scholar-chat-3db1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942371167161:android:341ef4a8d1077645d23468",
+        "android_client_info": {
+          "package_name": "com.example.a7a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4I5_4CRJgJpfcbkTpTEExAiKmpEqic2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942371167161:android:c7fae659f8b3b977d23468",
+        "android_client_info": {
+          "package_name": "com.example.scholar_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4I5_4CRJgJpfcbkTpTEExAiKmpEqic2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
